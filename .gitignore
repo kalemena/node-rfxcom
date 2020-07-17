@@ -1,1 +1,4 @@
 node_modules
+development_docs
+.idea
+debug
